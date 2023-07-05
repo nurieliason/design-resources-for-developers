@@ -3,9 +3,9 @@
 
 ## Table of Contents
 
-- [nur nur]
+- [nur nur] (#col)
 - [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
+- [Fonts][def]
 - [Colors](#colors)
 - [Icons](#icons)
 - [Logos](#logos)
@@ -1433,3 +1433,6 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+
+[def]: #fonts
