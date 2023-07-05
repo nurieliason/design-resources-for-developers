@@ -3,8 +3,9 @@
 
 ## Table of Contents
 
+- [Colors] (#colors)
 - [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
+- [Fonts][def]
 - [Colors](#colors)
 - [Icons](#icons)
 - [Logos](#logos)
@@ -367,6 +368,7 @@
 </div>
 
 ## Stock Photos
+##hi
 
 >Websites that offer free stock photos of all kinds for your websites and apps
 
@@ -1431,3 +1433,6 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+
+[def]: #fonts
